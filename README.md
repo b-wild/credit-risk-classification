@@ -1,4 +1,4 @@
-# credit-risk-classification
+# credit-risk-classification - Logistic Regression
 
 
 ## Overview of the Analysis
