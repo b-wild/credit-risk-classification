@@ -65,7 +65,7 @@ Summary the results of the machine learning models, and recommendation the 'Logi
 * SK Learb
 
 ### Files Included
-* [Credit Risk Logistic Regression Model and Datafram](Credit_Risk/credit_risk_classification_final_code.ipynb)
+* [Credit Risk Logistic Regression Model and Dataframe](Credit_Risk/credit_risk_classification_final_code.ipynb)
 
 
 ### Files Provided
@@ -73,7 +73,7 @@ Summary the results of the machine learning models, and recommendation the 'Logi
 * [Report Template](Starter_Code/report-template.md)
 
 
-#### Resources
+### Resources
 * [Sample Lending Dataset](Credit_Risk/lending_data.csv)
 
 ### References
